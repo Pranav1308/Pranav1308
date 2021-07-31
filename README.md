@@ -1,4 +1,4 @@
-### Hi, I am Pranav Karanjawane👋
+### Hi, I am Pranav Rahul Karanjawane👋
 
 - 🌱 I’m currently learning Data Science (ML & DL)
 - 👯 I’m looking to collaborate on Data Science Projects!
